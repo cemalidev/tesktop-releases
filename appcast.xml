@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <title>Tesktop</title>
@@ -12,6 +12,14 @@
       <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure url="https://github.com/cemalidev/tesktop-releases/releases/download/v1.0.3/Tesktop-1.0.3.dmg" sparkle:edSignature="euNBT5R7XsObVbBvBhGxrrc4A/UbTnY2aqFna7Xmq+HPmxITaxqQJl/vO9RqfW+YFDF02FRiNA8TgZypxSU4BQ==" length="2403810" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 1.0.4</title>
+      <pubDate>Tue, 19 May 2026 08:06:38 +0000</pubDate>
+      <sparkle:version>1.0.4</sparkle:version>
+      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/cemalidev/tesktop-releases/releases/download/v1.0.4/Tesktop-1.0.4.dmg" length="1603584" type="application/octet-stream" sparkle:edSignature="0d9/KKRmsLFe27XnrY6kivyOxTeE7PVP3DFt2HVEQmT8/8a6HywxT9DWCkSeDX5TcaLdIGFaD7MPvnjYcmkXAA==" />
     </item>
   </channel>
 </rss>
