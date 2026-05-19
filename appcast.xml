@@ -6,12 +6,12 @@
     <language>en</language>
     <link>https://tesktop.com</link>
     <item>
-      <title>Version 1.0.2</title>
-      <pubDate>Tue, 19 May 2026 07:15:05 +0000</pubDate>
-      <sparkle:version>1.0.2</sparkle:version>
-      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <title>Version 1.0.3</title>
+      <pubDate>Tue, 19 May 2026 07:33:14 +0000</pubDate>
+      <sparkle:version>1.0.3</sparkle:version>
+      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/cemalidev/tesktop-releases/releases/download/v1.0.2/Tesktop-1.0.2.dmg" sparkle:edSignature="iUabqdZ8KITMayRTw3bIWz0Q6iOM9Hpr9M0IGEPhfFtH4CLnAkWFo4aeJq7Wj8YrKao80iTZjUvwc4PPApooAQ==" length="2403430" type="application/octet-stream" />
+      <enclosure url="https://github.com/cemalidev/tesktop-releases/releases/download/v1.0.3/Tesktop-1.0.3.dmg" sparkle:edSignature="euNBT5R7XsObVbBvBhGxrrc4A/UbTnY2aqFna7Xmq+HPmxITaxqQJl/vO9RqfW+YFDF02FRiNA8TgZypxSU4BQ==" length="2403810" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
