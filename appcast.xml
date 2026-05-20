@@ -45,5 +45,13 @@
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure url="https://github.com/cemalidev/tesktop-releases/releases/download/v1.0.8/Tesktop-1.0.8.dmg" length="2516097" type="application/octet-stream" sparkle:edSignature="RGWKSC4WZlja4R4GA7w8EIkiekQSnT+slW2qvdTPvS1KD30ddrT7nQ+yKHr6cSNz+D1knDBI+rFZmi/AP/saCg==" />
     </item>
+    <item>
+      <title>Version 1.0.9</title>
+      <pubDate>Wed, 20 May 2026 21:23:30 +0000</pubDate>
+      <sparkle:version>1.0.9</sparkle:version>
+      <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/cemalidev/tesktop-releases/releases/download/v1.0.9/Tesktop-1.0.9.dmg" length="3981044" type="application/octet-stream" sparkle:edSignature="x1fG/7hri3c+Y3NQHOjAJbfnjpNRm4nPsyP6Z9535PgCUw2E9fqJkV/CMPT0DUlx4P5GWTFpHj2BUVorDyI/Cg==" />
+    </item>
   </channel>
 </rss>
